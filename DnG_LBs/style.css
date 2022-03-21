@@ -10,7 +10,7 @@ body {
  width: 100%;
 }
 h1 {
- font-size: 18px;
+ font-size: 20px;
  line-height: 30px;
  color: rgb(50,50,50);
 }
@@ -27,7 +27,7 @@ a {
 }
 #console {
  position: absolute;
- width: 450px;
+ width: 400px;
  margin: 20px;
  padding: 10px 20px;
  background-color: BurlyWood;
@@ -58,7 +58,7 @@ p {
 
 /* Style for pop-up window */
 .my-popup .mapboxgl-popup-content {
-  width: 250px;
+  width: 200px;
   background: rgba(222, 184, 135, 0.9); /* red, green, blue, and alpha */
   border-top: 25px black;
   padding: 0px 20px;
